@@ -1,4 +1,4 @@
-# Enhancing Lung Cancer Diagnosis Accuracy through Autoencoder-Based Reconstruction of Computed Tomography (CT) Lung Images
+## Enhancing Lung Cancer Diagnosis Accuracy through Autoencoder-Based Reconstruction of Computed Tomography (CT) Lung Images
 
 # ABSTRACT
 
